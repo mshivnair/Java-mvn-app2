@@ -11,6 +11,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
       <p class="text-center">Get ready for a DevOps ride! Hope you are enjoying the session!Manoj S Nair</p>
+      <p class="text-center">Yes!... This is really fantastic</p>
   </div>
 </body>
 </html>
